@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation android:animation="@anim/fragment_close_enter"
+    android:delay="0.3"
+    android:animationOrder="normal"
+    android:interpolator="@android:anim/slide_in_left"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
