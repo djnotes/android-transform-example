@@ -2,7 +2,7 @@
 
 
 
-[Demo](img/demo.gif)
+![Demo](img/demo.gif)
 
 Note: Take a look at the transitionName attribute in the layout files.
 
